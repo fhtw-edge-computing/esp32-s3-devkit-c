@@ -1,0 +1,6 @@
+# Ignore
+build/
+.devcontainer/
+debug.log
+
+# Allow
