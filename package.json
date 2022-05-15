@@ -1,0 +1,16 @@
+{
+  "name": "esp32-s3-devkit-c",
+  "version": "0.0.1",
+  "description": "ESP-S3 DevKit-C Documentation",
+  "repository": "https://github.com/fhtw-edge-computing/esp32-s3-devkit-c.git",
+  "author": "Alija Sabic <sabic.alija@gmail.com>",
+  "license": "GPL-v3",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.45"
+  }
+}
