@@ -1,4 +1,9 @@
 # Ignore
 node_modules/
 
+## VuePress
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+docs/.vuepress/dist/
+
 # Allow
