@@ -6,4 +6,10 @@ docs/.vuepress/.temp/
 docs/.vuepress/.cache/
 docs/.vuepress/dist/
 
+## ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+debug.log
+
 # Allow
